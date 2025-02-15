@@ -1,0 +1,50 @@
+Voici le fichier `README.md` mis à jour avec les deux liens pour le cours de Stanford :  
+
+```markdown
+# Ressources pour mon cours
+
+Ce dépôt contient une liste de ressources pertinentes qui m'ont aidé à élaborer mon cours. Chaque ressource est accompagnée d'une brève description et d'un lien vers son contenu.
+
+---
+
+## 📌 CS231n: Deep Learning for Computer Vision (Stanford)
+
+- **Description** : Ce cours, proposé au printemps 2024 par l'Université de Stanford, offre une plongée approfondie dans les architectures de deep learning appliquées à la vision par ordinateur. Les étudiants apprennent à implémenter et entraîner leurs propres réseaux neuronaux, en se concentrant sur des tâches telles que la classification d'images. Le cours comprend des conférences, des notes détaillées et des projets pratiques.
+- **Liens** :
+  - [CS231n - Site officiel](https://cs231n.stanford.edu/)
+  - [Slides du cours 2024](https://cs231n.stanford.edu/slides/2024/)
+
+---
+
+## 📌 Cours de NLP - Yandex
+
+- **Description** : Ce cours, disponible sur GitHub, couvre divers aspects du traitement du langage naturel (NLP). Il propose des ressources éducatives, des exemples de code et des exercices pratiques pour aider les étudiants à maîtriser les techniques modernes de NLP.
+- **Lien** : [Yandex NLP Course](https://github.com/yandexdataschool/nlp_course)
+
+---
+
+## 📌 Cours sur les Transformers - Polytech Clermont (Mohamed KONATE)
+
+- **Description** : Ce dépôt GitHub contient le matériel pédagogique utilisé par Mohamed KONATE pour son cours sur les Transformers à Polytech Clermont. Il inclut des présentations, des exemples de code et des exercices axés sur la compréhension et l'implémentation des modèles Transformers. Il s'agit du même cours dispensé lors du séminaire. Avec des TPs et exercices supplémentaires.
+- **Lien** : [Teaching Transformers - Mohamed KONATE](https://github.com/mohakonaabbas/teaching_transformers)
+
+---
+
+## 📌 CSC 6203: Large Language Models (LLMs)
+
+- **Description** : Ce cours, dispensé à l'automne 2024, offre une étude complète des grands modèles de langage (LLMs). Les sujets abordés incluent l'ingénierie des architectures, les techniques d'entraînement, l'amélioration de l'efficacité et l'ingénierie des invites. Les étudiants acquièrent des connaissances sur l'application des LLMs dans divers domaines, l'intégration d'outils, les questions de confidentialité et de biais, ainsi que leurs limitations et alignements.
+- **Lien** : [LLM Course](https://llm-course.github.io/)
+
+---
+
+## 📌 CS 601.471/671: Self-Supervised Learning (Johns Hopkins)
+
+- **Description** : Ce cours de l'Université Johns Hopkins, proposé au printemps 2024, se concentre sur les techniques d'apprentissage auto-supervisé pour les applications de traitement du langage naturel. À travers des conférences, des devoirs et un projet final, les étudiants apprennent à concevoir, implémenter et comprendre leurs propres modèles neuronaux auto-supervisés en utilisant le framework PyTorch.
+- **Lien** : [Self-Supervised Learning Course](https://self-supervised.cs.jhu.edu/sp2024/)
+
+---
+
+📚 **Ces ressources offrent une base solide pour approfondir ses connaissances en deep learning, NLP et modèles de langage.** 🚀
+```
+
+Tout est bien structuré et formaté pour être lisible sur GitHub. Tu peux copier-coller ce fichier dans ton dépôt `README.md` ! 🎯
