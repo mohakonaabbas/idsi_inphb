@@ -15,7 +15,7 @@ Ce dépôt contient une liste de ressources pertinentes qui m'ont aidé à conce
 
 ### 3️⃣ **Cours de Mohamed KONATE sur les Transformers (Polytech Clermont)**  
 - 🔗 [Repository GitHub](https://github.com/mohakonaabbas/teaching_transformers.git)  
-- Mon propre cours dispensé à **Polytech Clermont**, expliquant en profondeur les Transformers, leurs architectures et leurs applications.  
+- Mon propre cours dispensé à **Polytech Clermont**, expliquant en profondeur les Transformers, leurs architectures et leurs applications. Il est celui qui a été dispensé lors du séminaire Gen AI sur la partie théorique.  
 
 ### 4️⃣ **LLMs Course**  
 - 🔗 [Site du cours](https://llm-course.github.io/)  
@@ -28,12 +28,12 @@ Ce dépôt contient une liste de ressources pertinentes qui m'ont aidé à conce
 ---
 
 ## 🚀 **Comment Contribuer ?**  
-Si vous avez d'autres ressources pertinentes, n'hésitez pas à ouvrir une **issue** ou à proposer un **pull request** !  
+Si vous avez d'autres ressources pertinentes, ou de formation sur mesure, n'hésitez pas me contacter !  
 
 ---
 
 ## 📧 **Contact**  
-Si vous avez des questions ou des suggestions, contactez-moi sur **GitHub** ou via mon institution.  
+Si vous avez des questions ou des suggestions, contactez-moi sur **GitHub** ou via mon mail : mohakonaabbas@hotmail.com.  
 
 ---
 
